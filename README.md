@@ -47,8 +47,8 @@ A detail-oriented Computer Science undergrad at MNIT Jaipur with experience in b
 - 🚀 **[Skyforcaster](https://github.com/kevinpoonia/Skyforcaster)** – Weather App using JS + OpenWeather API
 - 💰 **[Expenso](https://github.com/kevinpoonia/Expenso)** – Expense Tracker using PHP + MySQL
 - 📊 **House Price Predictor** – Regression ML model in Python
-- 🛡️ **Spam Message Classifier** – Binary classification using NLP techniques
-- ✅ **To-Do App** – Frontend productivity app using React + Redux
+- 🛡️ **[Spam Message Classifier](https://github.com/kevinpoonia/Spam-Message-Classifier)** – Binary classification using NLP techniques
+
 
 ## 🧑‍💻 Experience
 
